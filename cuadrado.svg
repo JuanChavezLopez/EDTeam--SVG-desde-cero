@@ -1,0 +1,25 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311 130">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: blue;
+                stroke: #1d1d1b;
+                stroke-miterlimit: 10;
+            }
+        </style>
+    </defs>
+    <rect class="cls-1" x="0.5" y="0.5" width="310" height="129" />
+</svg>
+
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 196">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #e30613;
+                stroke: #1d1d1b;
+                stroke-miterlimit: 10;
+            }
+        </style>
+    </defs>
+    <ellipse class="cls-1" cx="103.5" cy="98" rx="103" ry="97.5" />
+</svg>
